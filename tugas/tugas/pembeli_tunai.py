@@ -9,4 +9,4 @@ class pembeli_tunai:
         print(f"\nPENJUALAN\t {self.tanggal}")
         print(f"         \t {self.waktu}")
         print(f"NAMA: {self.nama}")
-        print(f"JUMLAH    : RP.   {self.jumlah}")
+        print(f"JUMLAH    : Rp   {self.jumlah}")

@@ -12,4 +12,4 @@ class pembeli_nontunai:
         print(f"NAMA      : {self.nama}")
         print(f"DARI REK. : {self.rek_pembeli}")
         print(f"KE REK.   : 418801000524507")
-        print(f"JUMLAH    : RP.      {self.jumlah}")
+        print(f"JUMLAH    : Rp      {self.jumlah}")
